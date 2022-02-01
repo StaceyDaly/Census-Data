@@ -14,7 +14,7 @@ Syntax highlighted code block
 ![EbfZ4-census-voting-data](https://user-images.githubusercontent.com/98707461/151910876-adef80ee-8df4-4704-b0eb-53fe5204cc92.png)
 
 Census
-## Header 2
+Data
 ### Header 3
 
 - Bulleted
