@@ -24,14 +24,5 @@ Syntax highlighted code block
 
 
 
-**Bold** and _Italic_ and `Code` text
-![EbfZ4-census-voting-data- (1)](https://user-images.githubusercontent.com/98707461/151903739-ec75cd8b-d9d8-454d-bff1-48504b822b06.png)
-
-
-
-
-```![EbfZ4-census-voting-data](https://user-images.githubusercontent.com/98707461/151910286-7bcc6de8-8ebb-4f8c-81e7-dad046c2dfcd.png)
-
-
 
 
