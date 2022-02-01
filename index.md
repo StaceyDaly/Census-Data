@@ -10,6 +10,7 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 
 ```markdown
 Syntax highlighted code block
+![EbfZ4-census-voting-data- (1)](https://user-images.githubusercontent.com/98707461/151903843-e924d413-3daf-47ce-83ac-0a6dcf34efc1.png)
 
 # Header 1
 ## Header 2
@@ -26,7 +27,8 @@ Syntax highlighted code block
 
 
 
-```
+```![EbfZ4-census-voting-data- (1)](https://user-images.githubusercontent.com/98707461/151903831-5359baee-dd22-4b19-8d1f-6ad32e6d88b9.png)
+
 
 For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
 
