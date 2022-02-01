@@ -28,6 +28,7 @@ Census
 
 
 ```![EbfZ4-census-voting-data- (1)](https://user-images.githubusercontent.com/98707461/151903831-5359baee-dd22-4b19-8d1f-6ad32e6d88b9.png)
+```![EbfZ4-census-voting-data](https://user-images.githubusercontent.com/98707461/151910286-7bcc6de8-8ebb-4f8c-81e7-dad046c2dfcd.png)
 
 
 For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
