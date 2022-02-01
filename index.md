@@ -2,6 +2,9 @@
 
 The last census results have been completed and all data has been compiled. It is now available for review covering many different demographics. I was rather surprised to see the results regarding voting data. I fully expected to see a drastic difference between the number of voters between men and women. However, this is not what I discovered. 
 
+**Bold** and _Italic_ and `Code` text
+![EbfZ4-census-voting-data- (1)](https://user-images.githubusercontent.com/98707461/151903739-ec75cd8b-d9d8-454d-bff1-48504b822b06.png)
+
 Of the 231,416,670 million people who answered voting questions in the census, the number of men and women was nearly equal. However, the number of women who voted outnumbered men by nearly 7,000,000 people. I was rather surprised to see the numbers to close, although I have a hard time considering 7,000,000 voters close.
 
 In recent years, there has been a push for women to get out to vote. For all of the strides made towards equality and women's rights, it all comes down to actually exercising those rites and voting. I believe that this is the reason why women are voting in greater numbers than men. This is rather impressive given the pandemic caused great fear for people to even head out to the polls.
