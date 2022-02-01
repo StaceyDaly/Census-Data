@@ -11,6 +11,7 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 ```markdown
 Syntax highlighted code block
 ![EbfZ4-census-voting-data- (1)](https://user-images.githubusercontent.com/98707461/151903843-e924d413-3daf-47ce-83ac-0a6dcf34efc1.png)
+![EbfZ4-census-voting-data](https://user-images.githubusercontent.com/98707461/151910876-adef80ee-8df4-4704-b0eb-53fe5204cc92.png)
 
 Census
 ## Header 2
