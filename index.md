@@ -12,7 +12,7 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 Syntax highlighted code block
 ![EbfZ4-census-voting-data- (1)](https://user-images.githubusercontent.com/98707461/151903843-e924d413-3daf-47ce-83ac-0a6dcf34efc1.png)
 
-# Header 1
+Census
 ## Header 2
 ### Header 3
 
