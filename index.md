@@ -1,4 +1,6 @@
-## Welcome to GitHub Pages
+**Bold** Census Data
+
+The last census results have been completed and all data has been compiled. It is now available for review covering many different demographics. I was rather surprised to see the results regarding voting data. I fully expected to see a drastic difference between the number of voters between men and women. However, this is not what I discovered. 
 
 You can use the [editor on GitHub](https://github.com/StaceyDaly/Census-Data/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
