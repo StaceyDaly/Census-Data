@@ -1,4 +1,4 @@
-**Bold** Census Data
+**Census Data** 
 
 The last census results have been completed and all data has been compiled. It is now available for review covering many different demographics. I was rather surprised to see the results regarding voting data. I fully expected to see a drastic difference between the number of voters between men and women. However, this is not what I discovered. 
 
